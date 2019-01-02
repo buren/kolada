@@ -34,3 +34,6 @@ jspm_packages
 
 # Optional REPL history
 .node_repl_history
+
+# this is a lib so we should ignore the lock file
+package-lock.json
