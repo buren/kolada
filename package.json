@@ -4,7 +4,8 @@
   "description": "Kolada API client provides access to standardized key performance indicators (KPI) concerning Swedish municipalities and organizational units.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "kitchen-sink": "node kitchen-sink.js"
   },
   "repository": {
     "type": "git",
