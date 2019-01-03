@@ -66,15 +66,11 @@ kolada.data.municipalities({ municipality: '1860', year: [2008, 2009] })
 kolada.data.municipalities({ municipality: '1860', year: 2009, fromDate: '2015-02-28' })
 ```
 
-:warning: Fetching all municipalities, with `kolada.data.municipalities()` seems, and probably should be, possible _however_ the server returns `HTTP 500 Internal Server Error`.
-
 Organizational Unit (OU)
 ```javascript
 kolada.data.ou({ kpi: ['N15033'], year: [2007, 2008] });
 kolada.data.ou({ ou: 'V15E144001301', kpi: 'N00945', year: 2009 });
 ```
-
-:warning: Fetching all organizational units, with `kolada.data.ou()` is possible _however_ the response typically takes over 30 seconds.
 
 :link: For detailed API documentation, see [github.com/Hypergene/kolada](https://github.com/Hypergene/kolada).
 
