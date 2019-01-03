@@ -1,6 +1,6 @@
 const Kolada = require('./index');
 
-const fakeFetch = url => console.log(`GETME ${url}`);
+const fakeFetch = url => console.log(`GET ${url}`);
 const kolada = new Kolada({ fetch: fakeFetch });
 const expectInvalid = f => {
   try {

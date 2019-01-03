@@ -72,6 +72,8 @@ kolada.data.ou({ kpi: ['N15033'], year: [2007, 2008] });
 kolada.data.ou({ ou: 'V15E144001301', kpi: 'N00945', year: 2009 });
 ```
 
+See more examples in [`kitchen-sink.js`](kitchen-sink.js).
+
 :link: For detailed API documentation, see [github.com/Hypergene/kolada](https://github.com/Hypergene/kolada).
 
 ## Development
