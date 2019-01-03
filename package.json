@@ -1,6 +1,6 @@
 {
   "name": "kolada",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Kolada API client provides access to standardized key performance indicators (KPI) concerning Swedish municipalities and organizational units.",
   "main": "index.js",
   "scripts": {
