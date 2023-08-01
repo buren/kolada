@@ -24,6 +24,6 @@
   },
   "homepage": "https://github.com/buren/kolada#readme",
   "dependencies": {
-    "cross-fetch": "^3.0.0"
+    "cross-fetch": "^4.0.0"
   }
 }
